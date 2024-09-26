@@ -1,1 +1,6 @@
 # Diabetic-Retinopathy
+Diabetic Retinopathy (DR) is a serious eye condition that affects individuals with diabetes, often leading to vision loss or blindness if not detected early. As one of the leading causes of blindness globally, diabetic retinopathy progresses through several stages, from mild symptoms to more severe retinal damage. Early detection and timely intervention are critical to preventing irreversible vision impairment.
+
+This project aims to develop an integrated image framework that utilizes deep learning and image processing techniques to detect and classify the various stages of diabetic retinopathy. By analyzing retinal fundus images, the framework can automatically diagnose DR stages such as Mild, Moderate, Severe, and Proliferative, offering accurate and efficient diagnosis without the need for manual assessment by specialists.
+
+Using techniques such as Convolutional Neural Networks (CNN), image preprocessing, and enhancement, the model is designed to improve diagnostic accuracy and support healthcare professionals in making faster, more reliable decisions. This project holds significant potential for aiding early diagnosis, improving patient outcomes, and reducing the burden on medical resources in managing diabetic retinopathy.
